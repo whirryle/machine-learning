@@ -1,6 +1,6 @@
 # machine-learning
-# *** DISCLAIMER ***
-SEMUA KODE YANG SAYA SERTAKAN BUKAN KODE MURNI YANG SAYA BUAT, KODE TERSEBUT MERUPAKAN KODE DARI HASIL PEMEBELAJARAN DI YOUTUBE, UNTUK LEBIH JELASNYA BISA CEK DI YOUTUBE YANG SAYA SERTAKAN DI BAWAH!
+# DISCLAIMER ‼️
+-- Semua kode yang saya sertakan bukan kode murni yang saya buat, kode tersebut merupakan kode dari hasil pemebelajaran di youtube, untuk lebih jelasnya bisa cek di youtube yang saya sertakan di bawah! --
 
 Ini adalah kumpulan Machine Learning yang aku pelajari melalui platform YouTube, ilmu daging semua soalnya
 
