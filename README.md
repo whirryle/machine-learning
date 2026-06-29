@@ -17,5 +17,6 @@ Thanks to :
 1. https://www.youtube.com/@addeaulia
 2. https://www.youtube.com/@AdiSetiawanLinux
 3. https://www.youtube.com/@danarpamungkas
+4. https://www.youtube.com/@JCOpUntukIndonesia
 
 otw kerja microsoft
